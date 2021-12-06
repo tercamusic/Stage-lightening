@@ -1,0 +1,15 @@
+LED 1W: 12 red, 12 green and 12 blue
+Control signal: DMX 512
+With 12 channels:
+Channel 1: dimmer.
+Channel 2: red
+Channel 3: green
+Channel 4: blue
+Channel 5: strobe
+Channel 6: RGB mix
+Channel 7: pan
+Channel 8: tilt
+Channel 9: RGB macro
+Channel 10: pan 16-bit
+Channel 11: tilt 16-bit
+Channel 12: X/Y speed adjustable
